@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-drbeen",
+  "version": "1.0.0",
+  "description": "ESLint configuration for DrBeen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrBeen/eslint-config-drbeen.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "DrBeen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrBeen/eslint-config-drbeen/issues"
+  },
+  "homepage": "https://github.com/DrBeen/eslint-config-drbeen#readme"
+}
