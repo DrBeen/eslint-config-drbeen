@@ -2,7 +2,7 @@ module.exports = {
   "env":     {
     "es6": true
   },
-  "extends": "airbnb",
+  "extends": "eslint:recommended",
   "rules": {
     "max-len": [
       1,
