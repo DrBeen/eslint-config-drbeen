@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/DrBeen/eslint-config-drbeen/issues"
   },
-  "homepage": "https://github.com/DrBeen/eslint-config-drbeen#readme"
+  "homepage": "https://github.com/DrBeen/eslint-config-drbeen#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
 }
